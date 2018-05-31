@@ -1,8 +1,14 @@
 # perceptual-color-tableau
 Four Perceptual Color Ramps for Tableau
 
-These four perceptual color ramps can be cut and pasted into
+Magma | Inferno | Plasma | Viridis
+
+These four perceptual color ramps are found in the preferences.txt
+file in this repository, and can be cut and pasted into
 the Preferences.tps file in your My Tableau Repository folder.
+They are ordered-sequential color palettes in Tableau, and
+are coded as such in the file.
+
 They were based on matplotlib colormaps by Nathaniel J. Smith, Stefan van der Walt,
 and (in the case of viridis) Eric Firing.
 
