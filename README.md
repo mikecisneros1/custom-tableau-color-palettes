@@ -26,6 +26,9 @@ work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 # color brewer for tableau
 These are the palettes created for the ColorBrewer tool by Cynthia Brewer, Mark Harrower and The Pennsylvania State University.
+These are found in the colorbrewer-for-tableau file in this repository, and can be cut and pasted into the Preferences.tps file in your My Tableau Repository folder. They are regular, ordered-diverging, and ordered-sequential color palettes in Tableau, and are coded as such in the file.  
+
+The naming convention for each palette is to use the general palette name, followed by a hyphen, followed by the number of distinct color values encoded in that palette.
 
 Colors from www.ColorBrewer.org by Cynthia A. Brewer, Geography, Pennsylvania State University.
 
